@@ -1,0 +1,3 @@
+[submodule "libtypedbytes"]
+	path = libtypedbytes
+	url = https://dgleich@github.com/dgleich/libtypedbytes.git
